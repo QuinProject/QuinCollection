@@ -104,6 +104,6 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:MoYuTime-Podcast/MoYuTime-Podcast.github.io.git
+  repo: git@github.com:QuinProject/Collection.git
   branch: master
   message: update by script
