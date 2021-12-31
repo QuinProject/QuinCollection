@@ -4,7 +4,9 @@ date: 2021-12-28 18:05:17
 layout: gallery
 ---
 
-{% autogallery gallery images/quin_with_dog "织梦岛 Quin" "4" %}
+图库版权归属于 MR.QUIN 
+
+{% autogallery gallery images/quin_with_dog "织梦岛 Quin" %}
 
 {% autogallery gallery images/quin_with_goose "无主之地3 Quin" %}
 
