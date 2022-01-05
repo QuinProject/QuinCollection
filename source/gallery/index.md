@@ -6,6 +6,48 @@ layout: gallery
 
 **图库版权归属于 MR.QUIN**
 
+{% autogallery gallery images/fate-2 "天命奇御2 Quin" %}
+
+{% autogallery gallery images/halo-infinity "黑楼无限 Quin" %}
+
+{% autogallery gallery images/pokemon-diamond-remake "宝可梦：钻石重制版 Quin" %}
+
+{% autogallery gallery images/fry-cry-6 "远哭 6 Quin" %}
+
+{% autogallery gallery images/quin-big-ni "大逆转裁判 Quin" %}
+
+{% autogallery gallery images/quin-beitong "北通之子 Quin" %}
+
+{% autogallery gallery images/guess "你画我猜 Quin" %}
+
+{% autogallery gallery images/tlou-2 "最后生还者 2 Quin" %}
+
+{% autogallery gallery images/x-c-2 "异度神剑：决定版 Quin" %}
+
+{% autogallery gallery images/maneater "食人鲨 Quin" %}
+
+{% autogallery gallery images/original-sin-2 "神界原罪 2 Quin" %}
+
+{% autogallery gallery images/ff7-re "FF7 重制版 Quin" %}
+
+{% autogallery gallery images/re-3 "生化危机-3 Quin" %}
+
+{% autogallery gallery images/animal-crossing "动森 Quin" %}
+
+{% autogallery gallery images/niho-2 "仁王2 Quin" %}
+
+{% autogallery gallery images/aori-2 "奥利2 Quin" %}
+
+{% autogallery gallery images/dragon-ball-z "龙珠 Z Quin" %}
+
+{% autogallery gallery images/lonely-mountain-downhill "孤山速降 Quin" %}
+
+{% autogallery gallery images/shenmue-3 "莎木 3 Quin" %}
+
+{% autogallery gallery images/starwar "星球大战 Quin" %}
+
+{% autogallery gallery images/pokemon_sword "宝可梦剑盾 Quin" %}
+
 {% autogallery gallery images/quin_with_death_standing "死亡搁浅 Quin" %}
 
 {% autogallery gallery images/quin_with_luigi "路易吉洋馆 Quin" %}
