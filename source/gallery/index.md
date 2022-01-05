@@ -4,7 +4,7 @@ date: 2021-12-28 18:05:17
 layout: gallery
 ---
 
-图库版权归属于 MR.QUIN 
+**图库版权归属于 MR.QUIN**
 
 {% autogallery gallery images/quin_with_dog "织梦岛 Quin" %}
 
