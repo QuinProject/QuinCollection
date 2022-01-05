@@ -10,6 +10,8 @@ layout: gallery
 
 {% autogallery gallery images/halo-infinity "黑楼无限 Quin" %}
 
+{% autogallery gallery images/driven-quin "地平线 5 Quin" %}
+
 {% autogallery gallery images/pokemon-diamond-remake "宝可梦：钻石重制版 Quin" %}
 
 {% autogallery gallery images/fry-cry-6 "远哭 6 Quin" %}
