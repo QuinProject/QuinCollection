@@ -6,6 +6,20 @@ layout: gallery
 
 **图库版权归属于 MR.QUIN**
 
+{% autogallery gallery images/quin_with_death_standing "死亡搁浅 Quin" %}
+
+{% autogallery gallery images/quin_with_luigi "路易吉洋馆 Quin" %}
+
+{% autogallery gallery images/quin_with_cod "Cod 16 Quin" %}
+
+{% autogallery gallery images/quin_with_ni_three "逆转裁判 3 Quin" %}
+
+{% autogallery gallery images/quin_with_monkey_king "大圣归来 Quin" %}
+
+{% autogallery gallery images/quin_with_ni "逆转裁判 Quin" %}
+
+{% autogallery gallery images/quin_with_code_vein "嗜血代码 Quin" %}
+
 {% autogallery gallery images/quin_with_dog "织梦岛 Quin" %}
 
 {% autogallery gallery images/quin_with_goose "无主之地3 Quin" %}

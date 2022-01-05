@@ -23,13 +23,13 @@ avatar: /images/quin.jpg
 ## Unused key can be commented out.
 links:
   Blog: /archives
+  Gallery: /gallery
 #  Category:
 #  Tags:
 #  Link:
 #  Resume:
 #  Publish:
 #  Trophy:
-  Gallary: /gallery
 # RSS: https://moyutime-hub.vercel.app/xiaoyuzhou/podcast/6161387b0a191aa6100b4656
 #  AliPay:
 #  ZhiHu: https://www.zhihu.com/people/lfkdsk
