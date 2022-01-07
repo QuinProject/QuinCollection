@@ -102,5 +102,5 @@ layout: gallery
 
 {% autogallery gallery images/pirate_quin "海盗 Quin" %}
 
-{% autogallery gallery images/original_quin "元组 Quin" %}
+{% autogallery gallery images/original_quin "元祖 Quin" %}
 
